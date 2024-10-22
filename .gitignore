@@ -1,0 +1,5 @@
+.DS_Store
+bin
+/test-classes/
+/classes/
+**/*.class 
